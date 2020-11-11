@@ -1,3 +1,5 @@
+
+
 # Serial 통신
 
 
@@ -13,7 +15,7 @@
 
 ## 시리얼 통신규격(RS-232C, RS-422A, RS-485)
 
-### ![통신](통신.assets/통신.PNG)
+### ![통신](통신.assets/통신.PNG){:.aligncenter}
 
 
 
@@ -22,11 +24,11 @@
 - 다양한 응용 분야에서 채택되어 사용 중이다.
 - EIA-232라고도 한다.
 
-![신호및커넥터](통신.assets/신호및커넥터.PNG)
+![신호및커넥터](통신.assets/신호및커넥터.PNG){:.aligncenter}
 
 
 
-![캡처](통신.assets/캡처.PNG)
+![캡처](통신.assets/캡처.PNG){:.aligncenter}
 
 
 
