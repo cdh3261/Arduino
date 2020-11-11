@@ -33,11 +33,13 @@
 
   <br />
 
-![신호및커넥터](통신.assets/신호및커넥터.PNG){:.aligncenter}
+<p align="center"><img src="./통신.assets/신호및커넥터.PNG" alt="RS" width="70%" height="70%"></p>
+
+
 
 <br />
 
-![캡처](통신.assets/캡처.PNG){:.aligncenter}
+<p align="center"><img src="./통신.assets/캡처.PNG" alt="RS" width="80%" height="80%"></p>
 
 
 
